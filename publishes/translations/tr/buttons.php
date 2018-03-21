@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'create'        => 'Create',
-    'create_item'   => 'Create :resource',
+    'create'        => 'Oluştur',
+    'create_item'   => 'Oluştur :resource',
     'edit'          => 'Düzenle',
     'view'          => 'Görüntüle',
     'delete'        => 'Sil',
