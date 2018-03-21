@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'create'        => 'Create',
+    'create_item'   => 'Create :resource',
+    'edit'          => 'Düzenle',
+    'view'          => 'Görüntüle',
+    'delete'        => 'Sil',
+    'save'          => 'Kaydet',
+    'reset'         => 'İptal Et',
+    'save_return'   => 'Kaydet ve Geri Dön',
+    'save_create'   => 'Kaydet ve Yeni Oluştur',
+    'download'      => 'İndir',
+    'search'        => 'Ara',
+    'remember_me'   => 'Beni Hatırla',
+    'sign_in'       => 'Giriş Yap',
+    'logout'        => 'Çıkış Yap',
+    'batch_actions' => 'Toplu İşlemler',
+    'clear_filters' => 'Temizle',
+    'media'         => 'Medya',
+    'translations'  => 'Çeviriler',
+    'upload'        => 'Yükle',
+    'next'          => 'İleri',
+    'previous'      => 'Geri',
+];
